@@ -9,10 +9,6 @@ const RESOURCES = {
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "version.json": "a9581cd4e62ff03a6c9a89bc4ce85775",
 "manifest.json": "13e4e766ad9a81aaae445c3fe8442287",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/AssetManifest.json": "a725d4acaf1d1bd3caab30aa1fe51c75",
@@ -22,8 +18,8 @@ const RESOURCES = {
 "assets/packages/flutter_google_places/assets/google_black.png": "97f2acfb6e993a0c4134d9d04dff21e2",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/assets/coffee.jpeg": "15260e7923bb34f85c17fb81ad68e5f6",
-"index.html": "e22e9a7f753413b6e9fb87667aa3764b",
-"/": "e22e9a7f753413b6e9fb87667aa3764b",
+"index.html": "db8b8e7aca9892614254db0fa42f6f0c",
+"/": "db8b8e7aca9892614254db0fa42f6f0c",
 "main.dart.js": "73d01b1810740104de13c1fc01e15d2d"
 };
 
