@@ -22,8 +22,8 @@ const RESOURCES = {
 "assets/packages/flutter_google_places/assets/google_black.png": "97f2acfb6e993a0c4134d9d04dff21e2",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/assets/coffee.jpeg": "15260e7923bb34f85c17fb81ad68e5f6",
-"index.html": "06df7084f8de1e2ae3be3679541beefe",
-"/": "06df7084f8de1e2ae3be3679541beefe",
+"index.html": "e22e9a7f753413b6e9fb87667aa3764b",
+"/": "e22e9a7f753413b6e9fb87667aa3764b",
 "main.dart.js": "73d01b1810740104de13c1fc01e15d2d"
 };
 
